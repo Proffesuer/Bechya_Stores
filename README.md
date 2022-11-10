@@ -4,7 +4,7 @@
 This program is to manage the Opening stock , closing stock , sales, and the Delvieries in the Bechya_stores company
  Technology used:
 ==================
-Bootstrap
+#Bootstrap
 Rubi
 reactjs
 Git&Github
